@@ -54,13 +54,24 @@ I lead a small team that ships production-grade mobile apps and AI-powered backe
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifashakeel&show_icons=true&hide_border=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifashakeel&hide_border=true&theme=tokyonight" height="160" alt="GitHub Streak"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=huzaifashakeel&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=450" alt="Huzaifa's GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifashakeel&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifashakeel&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&card_width=920" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifashakeel&layout=compact&hide_border=true&theme=tokyonight" height="150" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=huzaifashakeel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
